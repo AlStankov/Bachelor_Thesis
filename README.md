@@ -24,5 +24,5 @@ Model comaprison is performed in 2 notebooks:
 A data dictionary is to be found in the file data_dictionary.xlsx
 
 ## Additional files
-When running the Jupyter notebooks, several additional files will be created. They are not attached in this repository.
+When running the Jupyter notebooks, several additional files will be created including model files. They are not attached in this repository due to their size.
 
